@@ -29,9 +29,7 @@ A classic Pong game where **a human plays against an AI opponent**, trained usin
 ---
 
 ## 📁 Project Structure
-
 <pre>
-```text
 pong-ai-vs-human/
 │
 ├── pong_env.py         # Game environment (rules, ball/paddle movement)
@@ -44,4 +42,3 @@ pong-ai-vs-human/
 ├── README.md           # This file
 └── requirements.txt    # Python dependencies
 <pre>
-
