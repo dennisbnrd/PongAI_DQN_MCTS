@@ -38,6 +38,7 @@ By combining both methods, we create an AI that can both learn from the past and
 | ----------- | --------------------------------------------------- |
 | 🧠 **DQN**  | Learns general strategy from experience             |
 | 🔍 **MCTS** | Performs real-time simulations to improve decisions |
+
 This hybrid model allows the AI to:
 - Learn over time from trial and error (DQN),
 - Plan during gameplay by evaluating future possibilities (MCTS).
