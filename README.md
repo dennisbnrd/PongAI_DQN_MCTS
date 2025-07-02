@@ -41,7 +41,6 @@ pong-ai-vs-human/
 ├── pong_dqn.pth        # Trained model file (optional)
 ├── README.md           # This file
 └── requirements.txt    # Python dependencies
-<pre>
 
 ---
 ## ⚙️ Instalasi
