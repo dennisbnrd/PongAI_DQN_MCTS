@@ -107,6 +107,9 @@ pip install -r requirements.txt
   ```bash
 python play_ai.py
 ```
+Control:
+- W = Up
+- S = Down
 2. 🧠 Train the AI
  ```bash
 python train_ai.py
