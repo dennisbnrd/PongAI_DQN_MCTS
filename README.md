@@ -94,7 +94,7 @@ pong-ai-vs-human/
 1. Clone Repositori:
 ```bash
 git clone https://github.com/dennisbnrd/PongAI_DQN_MCTS.git
-cd PongAI_DQN_MCTS-CRUD
+cd PongAI_DQN_MCTS
 ```
 2. Install dependencies:
   ```bash
@@ -105,7 +105,7 @@ pip install -r requirements.txt
 ## 🚀 How to Run
 1. ▶️ Play the game (Human vs AI)
   ```bash
-python play_ai.py
+python play_Ai_manusia.py
 ```
 Control:
 - W = Up
