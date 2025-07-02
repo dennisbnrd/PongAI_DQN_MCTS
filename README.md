@@ -30,14 +30,16 @@ A classic Pong game where **a human plays against an AI opponent**, trained usin
 
 ## 📁 Project Structure
 
+\`\`\`
 pong-ai-vs-human/
 │
-├── pong_env.py # Pong game environment (rules, physics, scoring)
-├── dqn_model.py # Deep Q-Network model definition
-├── mcts_agent.py # MCTS agent for decision making
-├── train_ai.py # Script to train the AI
-├── play_ai.py # Main game: human vs trained AI
-├── utils.py # Helper functions (saving/loading models)
-├── pong_dqn.pth # Trained AI model (optional)
-├── requirements.txt # Dependencies
-└── README.md # This documentation
+├── pong_env.py         # Game environment (rules, ball/paddle movement)
+├── dqn_model.py        # DQN model definition
+├── mcts_agent.py       # MCTS agent for decision making
+├── train_ai.py         # AI training script
+├── play_ai.py          # Game script: play vs AI
+├── utils.py            # Helper functions (save/load)
+├── pong_dqn.pth        # Trained model file (optional)
+├── README.md           # This file
+└── requirements.txt    # Python dependencies
+\`\`\`
